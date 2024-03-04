@@ -1,2 +1,4 @@
 alexandria3k
 jupyter
+natsort
+pandas
